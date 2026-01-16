@@ -26,14 +26,6 @@ I bridge the gap between AI hype and production reality. With 10+ years in softw
 
 ---
 
-## 📊 GitHub Stats
-
-![Sergei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=newink&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newink&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 [![Website](https://img.shields.io/badge/-ivanov.codes-000000?style=flat&logo=google-chrome&logoColor=white)](https://ivanov.codes)
